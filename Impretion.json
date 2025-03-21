@@ -1,0 +1,27 @@
+{
+    "users": {
+        "SHounak": {
+            "overall_personality": [
+                "Shounak is tech-savvy and curious individual always"
+            ],
+            "interests": "Technology/Gaming",
+            "last_updated": "2025-01-25T00:52:34.725602"
+        },
+        "Sarbo": {
+            "overall_personality": [
+                "Likes to introduce themselves",
+                "Has basic mathematical awareness",
+                "Enjoys humor"
+            ],
+            "interests": "Mathematics/Humor",
+            "last_updated": "2025-01-22T19:55:52.491632"
+        },
+        "Unknown": {
+            "overall_personality": [
+                "Shounak is a tech-savvy person with varied interests."
+            ],
+            "interests": "Technology/Problem-Solving",
+            "last_updated": "2025-01-22T15:20:00Z"
+        }
+    }
+}
